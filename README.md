@@ -7,11 +7,15 @@ This repo contains modified schemes for Xcode and AppCode 2.0, created by Wouter
 
 Note: These colorscheme versions are based on personal preferences. Visit the [Solarized homepage] (or main [Solarized repository]) for the original Xcode and AppCode schemes. You'll find versions for other applications (Vim, Emacs, IntelliJ IDEA, Textmate, ...) over there as well.
 
+[Solarized homepage]:   http://ethanschoonover.com/solarized
+[Solarized repository]: https://github.com/altercation/solarized
+
+
+Screenshots
+-----------
 ![Screenshot Xcode](screenshots/xcode.png "Screenshot Xcode")
 ![Screenshot AppCode](screenshots/appcode.png "Screenshot AppCode")
 
-[Solarized homepage]:   http://ethanschoonover.com/solarized
-[Solarized repository]: https://github.com/altercation/solarized
 
 Installation - Xcode
 --------------------
